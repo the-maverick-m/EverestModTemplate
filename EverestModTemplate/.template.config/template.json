@@ -1,0 +1,15 @@
+{
+  "author": "madelinereal",
+  "name": "Everest Mod Template",
+  "description": "Template for creating a mod for the Everest API",
+  "identity": "EverestModTemplate",
+  "shortName": "everestmod",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "sourceName": "EverestModTemplate",
+  "symbols": {
+    "framework": "net452"
+  }
+}
